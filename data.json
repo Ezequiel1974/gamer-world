@@ -1,0 +1,109 @@
+{
+    "Cases": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_34567_Gabinete_Kolink_Inspire_K3_RGB__M-ATX_Vidrio_Templado_7306ef99-grn.jpg",
+        "name": "Gabinete Kolink Inspire K3 RGB M-ATX Vidrio Templado",
+        "brand": "KOLINK",
+        "id": "case001",
+        "price": 25990
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_21967_Gabinete_Kolink_Observatory_Lite_Mesh_4x120mm_Coolers_ARGB_Vidrio_Templado_7fabaefd-grn.jpg",
+        "name": "Gabinete Kolink Observatory Lite Mesh 4x120mm Coolers ARGB Vidrio Templado",
+        "brand": "KOLINK",
+        "id": "case002",
+        "price": 37590
+      }
+    ],
+    "Motherboards": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25784_Mother_MSI_B450_Gaming_Plus_Max_AM4_5dd0dc29-grn.jpg",
+        "name": "Mother MSI B450 Gaming Plus Max AM4",
+        "brand": "MSI",
+        "id": "mb001",
+        "price": 87990
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32252_Mother_ASUS_TUF_GAMING_B660M-PLUS_WIFI_D4_75faf914-grn.jpg",
+        "name": "Mother ASUS TUF GAMING B660M-PLUS WIFI D4",
+        "brand": "ASUS",
+        "id": "mb002",
+        "price": 56990
+      }
+    ],
+    "Graphic Cards": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_36639_Placa_de_Video_MSI_GeForce_RTX_3090_24GB_GDDR6X_VENTUS_3X_OC_58618d16-grn.jpg",
+        "name": "Placa de Video MSI GeForce RTX 3090 24GB GDDR6X VENTUS 3X OC",
+        "brand": "NVDIA",
+        "id": "gc001",
+        "price": 189990
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_27351_Placa_de_Video_XFX_Radeon_RX_6800_XT_CORE_16GB_GDDR6_Speedster_MERC_319_48ca199a-grn.jpg",
+        "name": "Placa de Video XFX Radeon RX 6800 XT CORE 16GB GDDR6 Speedster MERC 319",
+        "brand": "AMD",
+        "id": "gc002",
+        "price": 134990
+      }
+    ],
+    "Processors": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31696_Procesador_AMD_Ryzen_5_5500_4.2GHz_Turbo___Wraith_Stealth_Cooler_ca9fc7de-grn.jpg",
+        "name": "Procesador AMD Ryzen 5 5500 4.2GHz Turbo + Wraith Stealth Cooler",
+        "brand": "AMD",
+        "id": "proc001",
+        "price": 89990
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_25686_Procesador_Intel_Core_i5_11400F_4.40GHz_Turbo_S1200_Rocket_Lake_f8a24db3-grn.jpg",
+        "name": "Procesador Intel Core i5 11400F 4.40GHz Turbo S1200 Rocket Lake",
+        "brand": "INTEL",
+        "id": "proc002",
+        "price": 96990
+      }
+    ],
+    "RAM": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31776_Memoria_GeiL_DDR4_16GB_3000MHz_Super_Luce_RGB_Black_646b61f7-grn.jpg",
+        "name": "Memoria GeiL DDR4 16GB 3000MHz Super Luce RGB Black",
+        "brand": "GEIL",
+        "capacity": "16 BG",
+        "frequency": "3000Mhz",
+        "type": "DDR4",
+        "id": "ram001",
+        "price": 7999
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_15488_Memoria_Corsair_DDR4_16GB__2x8GB__3000MHz_Vengeance_RGB_PRO_Black_8aec95e6-grn.jpg",
+        "name": "Memoria Corsair DDR4 16GB (2x8GB) 3000MHz Vengeance RGB PRO Black",
+        "brand": "CORSAIR",
+        "capacity": "16 BG",
+        "frequency": "3000Mhz",
+        "type": "DDR4",
+        "id": "ram002",
+        "price": 18999
+      }
+    ],
+    "Monitors": [
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_32685_Monitor_Samsung_24__T350_75Hz_IPS_Full_HD_FreeSync_f34162c0-grn.jpg",
+        "name": "Monitor Samsung 24 T350 75Hz IPS Full HD FreeSync",
+        "brand": "SAMSUNG",
+        "screen_size": "24",
+        "frequency": "75Hz",
+        "id": "mon001",
+        "price": 72990
+      },
+      {
+        "img_url": "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_31703_Monitor_Gamer_Curvo_ASUS_24__TUF_VG24VQE_165Hz_1ms_VA_7e8dd37f-grn.jpg",
+        "name": "Monitor Gamer Curvo ASUS 24 TUF VG24VQE 165Hz 1ms VA",
+        "brand": "ASUS",
+        "screen_size": "24",
+        "frequency": "165Hz",
+        "id": "mon002",
+        "price": 55990
+      }
+    ]
+  }
+  
